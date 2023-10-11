@@ -8,8 +8,6 @@ public class Solution {
 	    
 	    int x=s.split("*").length;
 	    
-	    // comment added by sunanda
-	    
 	    
 	}
 
