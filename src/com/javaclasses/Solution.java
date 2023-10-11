@@ -7,7 +7,6 @@ public class Solution {
 		String s = "Welcome*to Baeldung";
 	    
 	    int x=s.split("*").length;
-	    System.out.println(x);
 	}
 
 }
